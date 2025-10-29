@@ -1,4 +1,4 @@
 # X-ray
-GUI to evaluate X-ray phase and attenuation effects
+GUI to recover X-ray phase and dark-field effects
 
 ![GUI](Code/res/gitImages/guiimg)
